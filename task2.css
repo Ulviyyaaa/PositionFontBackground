@@ -1,0 +1,31 @@
+.border-box{
+    background: #9204a2;
+    width: 700px;
+    height: 500px;
+    position: relative;
+}
+
+.padding{
+    background: #ff00d0;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.content{
+    background: #efff13;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    border: 3px dashed black;
+}
+.text{
+    color: #000;
+    font-size: 80px;
+    position: absolute;
+    top: 200px;
+    left: 280px;
+}

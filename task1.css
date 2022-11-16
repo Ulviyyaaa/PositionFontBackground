@@ -1,0 +1,11 @@
+*{
+    background-color: #92d2d1;
+}
+.text{
+    width: 100%;
+    height: 40px;
+    background-color: #fdfd1b;
+    position: sticky;
+    top: 0%;
+    
+}
